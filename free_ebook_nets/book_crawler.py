@@ -6,207 +6,155 @@ import os
 
 class FreeEbookCrawler:
     categories = []
-    ratings = []
-    rated_times = []
-    author_category = []
-    date_download_page = []
-
-    book_links = []
-    book_ids = []
-    book_titles = []
-    book_authors = []
-    book_sub_categories = []
-    book_public_dates = []
-    book_downloads = []
-    book_pages = []
-    book_descriptions = []
-    book_images = []
-    book_ratings = []
-    book_rated_times = []
-
-    csvData = []
 
     def __init__(self, depth):
         self.depth = depth
         self.home_page = 'https://www.free-ebooks.net'
-
-    def get_categories(self):
-        start_page = requests.get(self.home_page)
-        tree = html.fromstring(start_page.text)
-
-        self.categories = tree.xpath('//div[@class="row"]/div/ul/li/a/@href')
-        # categories = tree.xpath('//div[@class="row"]/div/ul/li/a/@title')
-        print(self.categories)
-
-        # csv_file_path = os.path.join(
-        #     os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
-        #     'output',
-        #     'categories.csv'
-        # )
-
-        # self.write_categories_to_csv_file(self.categories, csv_file_path)
-
-    def write_categories_to_csv_file(self, category_list, file_path):
-        with open(file_path, 'w') as csvFile:
-            writer = csv.writer(csvFile)
-            csv_data = []
-            for category in category_list:
-                csv_data.append(['', '', self.home_page + category])
-            writer.writerows(csv_data)
-        csvFile.close()
-
-    def read_categories_from_csv_file(self):
-        page = ['https://www.free-ebooks.net/advertising', 3]
-        self.crawl_book_details(page)
-
-    def crawl_book_details(self, page):
-
-        num = 1
-        while num <= int(page[1]):
-            print(f'get data from page {num}: ')
-            self.get_book_detail_from_single_page(f'{page[0]}/{num}')
-            print("done")
-            num += 1
-
-        if (len(self.book_links) > 0):
-            print(f'number of book: {len(self.book_links)}')
-
-        for index, item in enumerate(self.ratings):
-            if index % 5 == 0:
-                self.book_ratings.append(item)
-                continue
-
-        for index, item in enumerate(self.rated_times):
-            if index % 2 == 0:
-                self.book_rated_times.append(item)
-                continue
-
-        for index, item in enumerate(self.author_category):
-            if index % 2 == 0:
-                self.book_authors.append(item)
-                continue
-
-            self.book_sub_categories.append(item)
-
-        for index, item in enumerate(self.date_download_page):
-            num = index % 3
-            if num == 0:
-                self.book_public_dates.append(item)
-                continue
-
-            if num == 1:
-                self.book_downloads.append(item)
-                continue
-
-            self.book_pages.append(item)
-        print(f'number of book_l: {len(self.book_ratings)}')
-        print(f'number of book_: {len(self.book_rated_times)}')
-        print(f'number of book_authors: {len(self.book_authors)}')
-        print(f'number of book_sub_categories: {len(self.book_sub_categories)}')
-        print(f'number of book_public_dates: {len(self.book_public_dates)}')
-        print(f'number of book_ratings: {len(self.book_ratings)}')
-        print(f'number of book_rated_times: {len(self.book_rated_times)}')
-        print(f'number of book_authors: {len(self.book_authors)}')
-        print(f'number of book_sub_categories: {len(self.book_sub_categories)}')
-        print(f'number of book_public_dates: {len(self.book_public_dates)}')
-        print(f'number of book_downloads: {len(self.book_downloads)}')
-        print(f'number of book_pages: {len(self.book_pages)}')
-
-        self.csvData.append([
-                             'book_links',
-                             'book_ids',
-                             'book_titles',
-                             'book_authors',
-                             'book_sub_categories',
-                             'book_ratings',
-                             'book_rated_times',
-                             'book_public_dates',
-                             'book_downloads',
-                             'book_pages',
-                             'book_desciptions',
-                             'book_images']
-                            )
-        no = 1
-        for book in self.book_links:
-            self.csvData.append([book,
-                                 self.book_ids[no],
-                                 self.book_titles[no],
-                                 self.book_authors[no],
-                                 self.book_sub_categories[no],
-                                 self.book_ratings[no],
-                                 self.book_rated_times[no],
-                                 self.book_public_dates[no],
-                                 self.book_downloads[no],
-                                 self.book_pages[no],
-                                 self.book_descriptions[no],
-                                 self.book_images[no]]
-                                )
-            print(f'{no + 1} was appended to csv data')
-            no += 1
-        csv_file_path = os.path.join(
+        self. csv_file_path = os.path.join(
             os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
             'output',
-            'books_non_fiction.csv'
+            'full_books.csv'
         )
-        with open(csv_file_path, 'w') as csvFile:
+        self.writer = None
+
+    def read_categories_from_csv_file(self):
+        category_file_path = os.path.join(
+            os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+            'output',
+            'categories_pages.csv'
+        )
+
+        with open(category_file_path) as csv_file:
+            csv_reader = csv.reader(csv_file, delimiter=',')
+            for row in csv_reader:
+                self.categories.append([row[0], row[1]])
+        print(self.categories)
+        print(len(self.categories))
+        self.crawl()
+
+    def crawl(self):
+        count = 1
+        csv_titles = []
+        csv_titles.append([
+                        'book_links',
+                        'book_images',
+                        'book_sub_categories',
+                        'book_ids',
+                        'book_titles',
+                        'book_authors',
+                        'book_public_dates',
+                        'book_ratings',
+                        'book_rated_times',
+                        'book_downloads',
+                        'book_pages',
+                        'book_desciptions'
+                        ])
+        with open(self.csv_file_path, 'a+') as csvFile:
             print("open file")
-            writer = csv.writer(csvFile)
-            writer.writerows(self.csvData)
+            self.writer = csv.writer(csvFile)
+            self.writer.writerows(csv_titles)
+            for category in self.categories:
+                category_url = category[0]
+                page_number = int(category[1])
+                print("starting crawling data from ", category_url, ' ', page_number, '     ', count)
+                self.crawl_book_from_category(category_url, page_number)
+                count += 1
             print("write done")
         csvFile.close()
         return
 
-    def get_book_detail_from_single_page(self, url):
+    def crawl_book_from_category(self, category_url, page_number):
+        if page_number <= 0:
+            print('page <= 0')
+            return
+        num = 1
+        while num <= page_number:
+            url = f'{category_url}/{num}'
+            self.get_book_detail_from_single_page(url)
+            num += 1
 
+    def get_book_detail_from_single_page(self, url):
         print(url)
         start_page = requests.get(url)
         tree = html.fromstring(start_page.text)
 
-        self.book_links += tree.xpath('//div[@class="row laText"]/div/a[@class="img"]/@href')
+        book_links = tree.xpath('//div[@class="row laText"]/div/a[@class="img"]/@href')
+        book_ids = tree.xpath('//div[@class="row laText"]/@data-id')
+        book_titles = tree.xpath('//div[@class="row laText"]/div/h3/a[@class="title"]/text()')
+        book_descriptions = tree.xpath('//p[@class="book-description"]/text()')
+        ratings = (tree.xpath('//div[@class="col-sm-12 padIt"]/span/@title'))
+        rated_times = (tree.xpath('//div[@class="col-sm-12 padIt"]/b/text()'))
+        author_category = tree.xpath('//div[@class="col-sm-12 padIt"]/a/text()')
+        date_download_page = tree.xpath('//div[@class="col-sm-12 hidden-xs padIt"]/b/text()')
+        book_images = tree.xpath('//a[@class="img"]/@href')
 
-        self.book_ids += tree.xpath('//div[@class="row laText"]/@data-id')
-        self.book_titles += tree.xpath('//div[@class="row laText"]/div/h3/a[@class="title"]/text()')
-        self.book_descriptions += tree.xpath('//p[@class="book-description"]/text()')
-        self.ratings += (tree.xpath('//div[@class="col-sm-12 padIt"]/span/@title'))
-        self.rated_times += (tree.xpath('//div[@class="col-sm-12 padIt"]/b/text()'))
-        self.author_category += tree.xpath('//div[@class="col-sm-12 padIt"]/a/text()')
-        self.date_download_page += tree.xpath('//div[@class="col-sm-12 hidden-xs padIt"]/b/text()')
-        self.book_images += tree.xpath('//a[@class="img"]/@href')
+        book_ratings = []
+        book_rated_times = []
+        book_authors = []
+        book_sub_categories = []
+        book_public_dates = []
+        book_downloads = []
+        book_pages = []
 
-        print(len(self.book_links), len(self.book_ids), len(self.book_titles), len(self.book_descriptions),
-                len(self.ratings), len(self.rated_times),
-                len(self.author_category), len(self.date_download_page), len(self.book_images))
+        for index, item in enumerate(ratings):
+            if index % 5 == 0:
+                book_ratings.append(item)
+                continue
+
+        for index, item in enumerate(rated_times):
+            if index % 2 == 0:
+                book_rated_times.append(item)
+                continue
+
+        for index, item in enumerate(author_category):
+            if index % 2 == 0:
+                book_authors.append(item)
+                continue
+
+            book_sub_categories.append(item)
+
+        for index, item in enumerate(date_download_page):
+            num = index % 3
+            if num == 0:
+                book_public_dates.append(item)
+                continue
+
+            if num == 1:
+                book_downloads.append(item)
+                continue
+
+            book_pages.append(item)
+
+        print(len(book_links), len(book_ids), len(book_titles), len(book_descriptions),
+                 len(book_ratings), len(book_rated_times), len(book_authors), len(book_sub_categories), len(book_public_dates),
+              len(book_downloads), len(book_pages), len(book_images))
+
+        if(len(book_links) <= 0):
+            print("no data, return")
+            return
+
+        if (len(book_links) == len(book_ids) == len(book_titles) == len(book_descriptions)
+                == len(book_ratings) == len(book_rated_times) == len(book_authors)
+                == len(book_sub_categories) == len(book_public_dates) == len(book_downloads) == len(book_pages) == len(book_images)):
+            print('data available')
+            csv_data = []
+            i = 0
+            while i < len(book_links):
+                csv_data.append([self.home_page+book_links[i], self.home_page+book_images[i], book_sub_categories[i],
+                                 book_ids[i], book_titles[i], book_authors[i],  book_public_dates[i], book_ratings[i],
+                                 book_rated_times[i], book_downloads[i], book_pages[i], book_descriptions[i]
+                                 ])
+
+                i += 1
+                print(f'{i} books was appended')
+            print(csv_data)
+            self.writer.writerows(csv_data)
+            print(f'{len(csv_data)} books was written')
+            return
+        print(f'can not crawl data from {url}')
+
+
 
 
 crawler = FreeEbookCrawler(0)
 crawler.read_categories_from_csv_file()
-
-# print('https://www.free-ebooks.net/drama/5')
-# start_page = requests.get('https://www.free-ebooks.net/drama/5')
-# tree = html.fromstring(start_page.text)
-#
-# book_links = []
-# book_ids = []
-# book_titles = []
-# book_descriptions = []
-# ratings = []
-# rated_times = []
-# author_category = []
-# date_download_page = []
-# book_images = []
-#
-# book_links += tree.xpath('//div[@class="row laText"]/div/a[@class="img"]/@href')
-# book_ids.append(tree.xpath('//div[@class="row laText"]/@data-id'))
-# book_titles.append(tree.xpath('//div[@class="row laText"]/div/h3/a[@class="title"]/text()'))
-# book_descriptions.append(tree.xpath('//p[@class="book-description"]/text()'))
-# ratings.append(tree.xpath('//div[@class="col-sm-12 padIt"]/span/@title'))
-# rated_times.append(tree.xpath('//div[@class="col-sm-12 padIt"]/b/text()'))
-# author_category.append(tree.xpath('//div[@class="col-sm-12 padIt"]/a/text()'))
-# date_download_page.append(tree.xpath('//div[@class="col-sm-12 hidden-xs padIt"]/b/text()'))
-# book_images.append(tree.xpath('//a[@class="img"]/@href'))
-#
-# print(book_links)
-# print(len(book_links), len(book_ids), len(book_titles), len(book_descriptions),
-#               len(ratings), len(rated_times),len(author_category), len(date_download_page), len(book_images))
-# book_descriptions = tree.xpath('//p[@class="book-description"]/text()')
-# print(book_descriptions)
