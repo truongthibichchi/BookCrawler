@@ -10,7 +10,7 @@ class FreeEbookCrawler:
     def __init__(self, depth):
         self.depth = depth
         self.home_page = 'https://www.free-ebooks.net'
-        self. csv_file_path = os.path.join(
+        self.csv_file_path = os.path.join(
             os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
             'output',
             'full_books.csv'
@@ -129,7 +129,7 @@ class FreeEbookCrawler:
                  len(book_ratings), len(book_rated_times), len(book_authors), len(book_sub_categories), len(book_public_dates),
               len(book_downloads), len(book_pages), len(book_images))
 
-        if(len(book_links) <= 0):
+        if( len(book_links)<= 0):
             print("no data, return")
             return
 
@@ -152,8 +152,6 @@ class FreeEbookCrawler:
             print(f'{len(csv_data)} books was written')
             return
         print(f'can not crawl data from {url}')
-
-
 
 
 crawler = FreeEbookCrawler(0)

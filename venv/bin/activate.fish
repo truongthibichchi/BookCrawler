@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/miriki/Downloads/python_project/BookCrawler/venv"
+set -gx VIRTUAL_ENV "/home/miriki/Downloads/THESIS/BookCrawler/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

@@ -2,15 +2,1123 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc559949-d714-44f5-aefe-3acc9736b523" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_crawler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Combo Sách 101 - Những Điều Nhà Lãnh Đạo Cần Biết (Bộ 6 Cuốn) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Combo Sách Tứ Thư Lãnh Đạo (Tái Bản) - Bộ 4 Cuốn - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách 10 Thói Quen Của Triệu Phú - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách 10 Điều Khác Biệt Nhất Giữa Kẻ Giàu &amp; Người Nghèo (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách 13 Nguyên Tắc Nghĩ Giàu Làm Giàu - Think And Grow Rich (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách 24 Bài Học Sống Còn Để Đầu Tư Thành Công Trên Thị Trường Chứng Khoán (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Ai Trong Cuộc Cách Mạng Công Nghệ 4.0 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Blockchain - Bản Chất Của Blockchain, Bitcoin, Tiền Điện Tử, Hợp Đồng Thông Minh Và Tương Lai Của Tiền Tệ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Bài Học Israel - Cuộc Hồi Sinh Vĩ Đại Của Dân Tộc Thông Minh Nhất Thế Giới (Nguyễn Hiến Lê) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Bách Khoa Toàn Thư Về Khởi Nghiệp - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Bán Hàng Thông Minh Qua Điện Thoại Và Internet (Tái Bản Lần 2_2017) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Bí Mật Thế Giới LeGo - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Bí Quyết Đầu Tư Và Kinh Doanh Chứng Khoán Của Tỷ Phú Warren Buffett Và George Soros - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Bất Động Sản Căn Bản (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Bầu Trời Không Chỉ Có Màu Xanh_ Tự Truyện Của Lý Quí Trung - Người Đồng Sáng Lập Thương Hiệu Phở 24 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Cafe Book - Làm Thế Nào Để Sở Hữu Thành Công Quán Cà Phế Mới (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Chiến Lược Đại Dương Xanh (Tái Bản 2017) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Chiến Lược Đầu Tư Chứng Khoán (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Chào Hàng Chuyên Nghiệp Để Bán Hàng Thành Công - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Các Cuộc Chiến Tranh Tiền Tệ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Cách Người Phụ Nữ Xuất Chúng Lãnh Đạo - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Cách Tư Duy &amp; Giao Dịch Như Một Nhà Vô Địch Đầu Tư Chứng Khoán_ Những Bí Mật, Quy Tắc Giao Dịch &amp; Sự Thật Được Tiết Lộ Về Một Phù Thủy Chứng Khoán - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Cổ Phiếu Thường Lợi Nhuận Phi Thường (Tái Bản) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Dạy Con Làm Giàu - Tập 1 (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Dạy Con Làm Giàu - Tập 3 (Tái Bản 2016) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Dạy Con Làm Giàu 04 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Dạy Con Làm Giàu 05 - Để Có Sức Mạnh Về Tài Chính - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Dấn Thân - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Dẫn Dắt - Lãnh Đạo Chứ Không Quản Lý - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Dữ Liệu Lớn - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Gương Danh Nhân - Những Bài Học Thành Công - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Huy Động Vốn_ Khó Mà Dễ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Hành Trình 30 Ngày Trở Thành Bậc Thầy Bán Hàng Qua Điện Thoại - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Kinh Thánh Về Nghệ Thuật Lãnh Đạo (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Kinh Tế Học Vi Mô - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Kinh Tế Vĩ Mô - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Kinh Điển Về Khởi Nghiệp - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Kết Thúc Bán Hàng - Đòn Quyết Định (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Kỷ Nguyên Mới Của Quản Trị - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Kỷ Nguyên Tiền Điện Tử - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Kỹ Năng Bán Hàng Tuyệt Đỉnh (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Làm Chủ Nghệ Thuật Bán Hàng - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Làm Điều Quan Trọng - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Lãnh Đạo Bằng Sự Khiêm Nhường - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Lãnh Đạo Bằng Trí Óc, Trái Tim Và Khí Phách - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Lời Thú Tội Mới Của Một Sát Thủ Kinh Tế - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Lợi Thế Đen - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách MBA Căn Bản - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Một Đời Quản Trị - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Nghĩ Giàu &amp; Làm Giàu (Tái Bản) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Nghĩ Như Một Tỷ Phú - Mọi Thứ Bạn Cần Biết Về Thành Công, Bất Động Sản Và Cuộc Sống - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Nghĩ Như Nhà Vô Địch (Think Like A Champion) (Bìa Cứng) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Nghệ Thuật Bán Hàng Cho Người Giàu - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Nghệ Thuật Quản Lý Tài Chính Cá Nhân - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Nguyên Tắc Thiết Kế Slide Chuẩn Ted - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Người Bán Hàng Vĩ Đại Nhất Thế Giới - Tập 1 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Người Bán Hàng Vĩ Đại Nhất Thế Giới - Tập 2 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Nhà Lãnh Đạo Không Chức Danh - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Nhà Lãnh Đạo Và Nhân Đạo_ Dẫn Đường Và Mở Đường - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Nhà Đầu Tư Thông Minh (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Những Cuộc Phiêu Lưu Trong Kinh Doanh - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Những Đòn Tâm Lý Trong Bán Hàng (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Năng Đoạn Kim Cương (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Nếu Tôi Biết Được Khi Còn 20 (Tái Bản) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Perfect Slogan - Để Ngôn Từ Trở Thành Sức Mạnh - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Phong Cách Quản Trị Park Hang Seo - Bí Quyết Thành Công Của Doanh Nghiệp Hàn Quốc - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Phát Triển Kỹ Năng Lãnh Đạo (Tái Bản 2017) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Phân Tích Chứng Khoán (Security Analysis) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Phù Thủy Sàn Chứng Khoán Thế Hệ Mới - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Quá Trình Hình Thành Một Nhà Tư Bản Mỹ (Tái Bản 2017) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Quản Lý Nghiệp - Tái Bản 2018 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Quảng Cáo Tự Nhiên - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Sách Lược Đầu Tư Của W. Buffett - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Sói Già Phố Wall - Phần 2 (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Sư Tử Thức Giấc - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Sống Trong Giàu Có - Hành Trình 52 Tuần Để Đạt Được Tự Do Tài Chính - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Sự Quyến Rũ Của Thương Hiệu - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách The Big Trade - Giao Dịch Lớn (Tái Bản 2016) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách The Truth Machine - Blockchain Và Tương Lai Của Tiền Tệ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Think And Grow Rich - Nghĩ Giàu Và Làm Giàu - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Thuật Lãnh Đạo Khởi Nghiệp - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Thành Công Không Cần Trả Giá - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Thấu Hiểu Hệ Thống - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Tiếp Thị 4.0 - Dịch Chuyển Từ Truyền Thống Sang Công Nghệ Số - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Trang Bị 101 - Những Điều Nhà Lãnh Đạo Cần Biết - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Trên Đỉnh Phố Wall (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Trò Bịp Trên Phố Wall (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Tâm Lý Thị Trường Chứng Khoán (Tái Bản 2017) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Tạo Lập Mô Hình Kinh Doanh Cá Nhân - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Từ Tốt Đến Vĩ Đại - Jim Collins (Tái Bản 2017) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Uber - Chuyến Đi Bão Táp - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Vượt Biển Lớn - Cách Đi Lên Của Người Khởi Nghiệp Từ 5 Xu - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Vị Giám Đốc 1 Phút - Bí Quyết Áp Dụng Để Thành Công (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Vị Giám Đốc Một Phút - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Vị Tu Sĩ Bán Chiếc Ferrari (Tái Bản Từ Cuốn Tìm Về Sức Mạnh Vô Biên) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Đánh Thức Tiềm Năng Tài Chính - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Đạt Kết Quả Tối Đa Từ Những Gì Bạn Có - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Để Thế Giới Biết Bạn Là Ai - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Ước Mơ Của Bạn Nhất Định Thành Hiện Thực - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Kinh tế/Truyện Không Xinh - Không Thông Minh - Không Bất Bình Thế Giới - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Combo Sách Vì Chơi Là Học - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách 3 Phút Cho Ông Bố Bận Rộn - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách 365 Ngày Chuẩn Bị Trước Khi Mang Thai - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách 70 Thói Quen Tốt Trong Việc Dưỡng Con Theo Phương Pháp Shichida - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Bác Sĩ Riêng Của Bé Yêu - Bước Đệm Vững Chắc Vào Đời - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Bách Khoa Thai Nghén, Sinh Nở Và Chăm Sóc Bé - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Bí Mật Do Thái - Khơi Dậy Tài Năng Trẻ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Bí Quyết Giúp Con Giỏi Tiếng Anh - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Bước Đột Phá Trong Việc Nuôi Dạy Con - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Bản Đồ Tư Duy Cho Trẻ Thông Minh - Tăng Cường Trí Nhớ Và Khả Năng Tập Trung - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Bộ Sách An Toàn Cho Con Yêu - An Toàn Cho Con Yêu - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Bộ Sách An Toàn Cho Con Yêu - Bí Mật Rất Cần Bí Mật - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Bộ Truyện Giáo Dục Giới Tính Cho Trẻ Nhỏ - Con Sinh Ra Từ Đâu_ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Cha Mẹ Can Đảm - Phương Pháp Nuôi Dạy Con Mới Mẻ Và Táo Bạo - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Cha Mẹ Là Số Phận Của Con Cái - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Cha Mẹ Nhật Dạy Con Lắng Nghe Hơn Là La Mắng - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Cha Mẹ Nhật Dạy Con Tự Lập - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Cha Mẹ Nhật Nuôi Dạy Con Trai - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Cha Mẹ Vừa Đủ Tốt - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Chiến Lược Của Mẹ Thay Đổi Cuộc Đời Con - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Chào Con! Ba Mẹ Đã Sẵn Sàng - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Chúng Mình Làm Bạn, Con Nhé_ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Chăm Sóc Sức Khỏe Trẻ Em - Tập 1_ Sữa Mẹ - Sữa Công Thức - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Chờ Đến Mẫu Giáo Thì Đã Muộn - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Con Chúng Ta Không Sao Đâu - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Con Cái Tự Giác Cha Mẹ Yên Tâm - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Con Có Em Rồi Đấy! - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Con Có Thể Tự Bảo Vệ Mình - Con Không Bao Giờ Đi Lạc (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Con Có Thể Tự Bảo Vệ Mình - Con Không Bao Giờ Đi Lạc - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Con Có Thể Tự Bảo Vệ Mình - Cơ Thể Con Là Của Con - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Con Không Cần Mẹ Hoàn Hảo, Con Chỉ Cần Mẹ Hạnh Phúc - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Con Là Khách Quý - Ghi Chép Về Cách Người Mỹ Nuôi Dạy Con (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Con Là Sức Mạnh Của Mẹ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Con Mơ Điều Giản Dị - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Con Nghĩ Đi, Mẹ Không Biết - Tái Bản 2018 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Con Sẽ Là Một Em Bé Hạnh Phúc - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Cách Khen, Cách Mắng, Cách Phạt Con (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Cây To Bắt Đầu Từ Mầm Nhỏ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Cẩm Nang Dành Cho Mẹ Bầu &amp; Thai Nhi - Bố Mẹ Kể Con Nghe - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Cẩm Nang Nuôi Dạy Con Theo Phương Pháp Montessori - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Cẩm Nang Toàn Tập - Chăm Sóc Bé Những Năm Đầu Đời - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Dinh Dưỡng Theo Độ Tuổi - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Dạy Con Dùng Tiền - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Dạy Con Dạy Cha - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Dạy Con Thông Minh Qua Các Trò Chơi - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Dạy Con Thế Nào Mới Đúng - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Dạy Con Trong Hoang Mang (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Dạy Con Trong Hoang Mang II - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Dạy Con Yêu Sách, Gieo Mầm Tính Cách - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Dạy Con Đối Mặt Với Ván Cờ Cuộc Đời - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Hiểu Về Cảm Xúc Và Hành Vi Của Trẻ - Nhưng Nhỡ Thế Thì Sao_ (Hiểu Và Giúp Trẻ Vượt Qua Nỗi Lo) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Hành Trình Học Làm Mẹ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Hành Trình Yêu Thương - 1000 Ngày Mẹ Và Bé - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Hãy Là Chính Mình Con Nhé - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Hơn Cả Mẹ Hổ - Dạy Con Thành Công - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Học Montessori Để Dạy Trẻ Theo Phương Pháp Montessori - 100 Hoạt Động Montessori_ Con Không Cần Ipad Để Lớn Khôn - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Học Montessori Để Dạy Trẻ Theo Phương Pháp Montessori - 60 Hoạt Động Montessori Giúp Trẻ Trưởng Thành_ Chờ Con Lớn Thì Đã Muộn - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Hỏi Bác Sĩ Nhi Đồng - Giải Đáp Thắc Mắc Của Cha Mẹ Về Bệnh Con Nít - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Không Có Bà Mẹ Nào Hoàn Hảo! - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Làm Cha Mẹ Cũng Cần Phải Học - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Làm Mẹ Không Áp Lực (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Lần Đầu Làm Mẹ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Món Ăn Dặm Cho Bé (Tái Bản) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Mẹ Biết Lười Con Nên Người - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Mẹ Các Nước Dạy Con Trưởng Thành - Mẹ Đức Dạy Con Kỉ Luật - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Mẹ Cáu Giận, Con Hư Hỏng (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Mẹ Dắt Con Đi - Cùng Con Từng Bước Trưởng Thành - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Mẹ Lười Một Chút Nhé - Để Con Tự Lập Hơn - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Mẹ Việt Dạy Con Bước Cùng Toàn Cầu (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Mẹ Việt Giúp Con Học Tốt Tiếng Anh - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Mẹ Ơi, Mẹ Có Hạnh Phúc Không_ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Mỗi Ngày 1 Trò Chơi_ 365 Trò Chơi Đơn Giản Dành Cho Bé Từ 1-3 Tuổi - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Người Mẹ Tốt Hơn Là Người Thầy Tốt (Tái Bản 2015) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Người Mẹ Tốt Hơn Người Thầy Tốt - Chủ Đề_ Giáo Dục Phẩm Chất Đạo Đức - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Người Mẹ Tốt Hơn Người Thầy Tốt - Chủ Đề_ Rèn Luyện Thói Quen Học Tập - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Người Đức Dạy Con - Trên Bàn Ăn - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Nhật Ký Của Bố - 39 Phương Pháp Để Trở Thành Người Cha Tốt (Tái Bản Từ Cuốn Để Chồng Bạn Trở Thành Ông Bố Đảm) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Nuôi Con Không Phải Là Cuộc Chiến (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Nuôi Con Đại Chiến - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Nuôi Dạy Bé Gái Từ 0 - 6 Tuổi - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Nuôi Dạy Con Kiểu Nhật - Dạy Con Làm Việc Nhà - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Nuôi Dạy Con Theo Phương Pháp Montessori - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Nuôi Dạy Một Dứa Trẻ Hạnh Phúc - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Này, Con Có Thôi Đi Không! - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Nói Sao Để Khích Lệ Và Giúp Con Trưởng Thành - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Phương Pháp Dạy Con Không Đòn Roi - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Phương Pháp Giáo Dục Con Của Người Do Thái - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Phương Pháp Giáo Dục Con Của Người Mỹ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Phương Pháp Giáo Dục Montessori - Phát Hiện Mới Về Trẻ Thơ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Sau Này Con Sẽ Hiểu (Tái Bản) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Siêu Nhân Mẹ Không Cô Đơn - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Sổ Tay Ăn Dăm Của Mẹ (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Sự Thật Về 3 Năm Đầu Đời Của Trẻ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Thai Giáo Theo Chuyên Gia - 280 Ngày - Mỗi Ngày Đọc Một Trang (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Thiên Tài &amp; Sự Giáo Dục Từ Sớm (TB 2016) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Thói Quen Quyết Định Thành Tích Của Trẻ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Thất Bại Tích Cực - Chìa Khóa Thành Công Cho Con - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Thấu Hiểu Con Gái Tuổi Dậy Thì - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Thấu Hiểu Và Hỗ Trợ Trẻ Tự Kỷ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Trẻ Em Trong Gia Đình (Cuốn 1) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Tuổi Dậy Thì - Từ “Cô Bé_ Đến _Cô Nàng_ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Tạo Lập Môi Trường Sống Định Hình Nhân Cách Trẻ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Tủ Sách Mẹ &amp; Bé - Chăm Sóc Mẹ Và Bé - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Tủ Sách Nhật Dành Cho Phụ Huynh Việt - Khi Con Dậy Thì Bạn Sẽ Làm Gì_ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Vô Cùng Tàn Nhẫn, Vô Cùng Yêu Thương (Tái Bản 2017) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Yêu Là Không Cho Roi Cho Vọt - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách _Nghề_ Làm Cha Mẹ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Ăn Dặm Kiểu Nhật (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Đếm Ngược Tới Ngày Gặp Con Yêu - Tặng Kèm 1 Bookmark - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Để Chồng Bạn Trở Thành Ông Bố Đảm - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Nuôi dạy con/Sách Để Con Được Ốm - Tái Bản 2018 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách 10 Vạn Câu Hỏi Vì Sao - Vũ Trụ Thần Bí (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Bách Khoa Toàn Thư Pokémon - Best Wishes Series - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Chuyện Con Mèo Dạy Hải Âu Bay (Tái Bản 2017) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Combo Ai Ở Sau Lưng Bạn Thế_ (Bộ 6 Cuốn) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Cùng Chơi Với Bé - Xin Chào! Xin Chào - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Cùng Chơi Với Bé - Ú Òa! Ú Òa! - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Cùng Chơi Với Bé - Đi Tắm Thật Thích - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Danh Nhân Thế Giới_ Napôlêông (Tái Bản 2019) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Ehon Nhật Bản - Bé Trứng - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Ehon Nhật Bản - Chuyện Những Chiếc Răng - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Ehon Nhật Bản - Giày Nhỏ Đi Thôi! (Tái Bản 2017) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Gieo Mầm Tính Cách - Kiên Trì - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Gieo Mầm Tính Cách Cho Bé Yêu - Tiết Kiệm - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Gió Đùa Trong Liễu - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Gấu Con Thông Minh - Bảng Chữ Cái (Dành Cho Trẻ Mầm Non) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Lớp Học Mật Ngữ - Tập 6 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Mắt Đen Của Tôi Ơi... - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Mẹ Có Phải Là Mẹ Của Con_ Are You My Mother_ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Nghìn Lẻ Một Đêm - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Nhật Ký Chú Bé Nhút Nhát - Những Ngày Xưa Cũ - Tập 10 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Nhật Ký Chú Bé Nhút Nhát - Tập 1 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Nhật Ký Chú Bé Nhút Nhát - Tập 11 - Cược Gấp Đôi - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Nhật Ký Chú Bé Nhút Nhát - Tập 2_ Luật Của Rodrick - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Nhật Ký Chú Bé Nhút Nhát - Tập 3_ Giọt Nước Tràn Ly - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Nhật Ký Chú Bé Nhút Nhát - Tập 4_ Mùa Hè Tuyệt Vời - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Nhật Ký Chú Bé Nhút Nhát - Tập 5_ Sự Thật Phũ Phàng - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Nhật Ký Chú Bé Nhút Nhát - Tập 6_ Mắc Kẹt - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Nhật Ký Chú Bé Nhút Nhát - Tập 7_ Kỳ Đà Cản Mũi - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Nhật Ký Chú Bé Nhút Nhát - Tập 8 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Nhật ký chú bé nhút nhát - Tập 9 - Kỳ Nghỉ Thảm Khốc - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Thế Giới Động Vật - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Sách Tuổi Thơ Dữ Dội - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Ajin - Tập 11 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Ajin - Tập 6 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Ame &amp; Yuki - Những Đứa Con Của Sói (Boxset 3 Tập) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Another - Boxset 4 Tập - (Phiên Bản Manga) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Bleach_ The Death And The Strawberry - Tập 1 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Boxset Anohana - Đoá Hoa Ngày Ấy (Bộ 3 Tập) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Cô Dâu Pháp Sư - Tập 9 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Death Note - Tập 1 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Fairy Tail - Tập 1 (Tái Bản 2019) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Hunter X Hunter - Tập 31 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Học Sinh Chân Kinh - Tập 18_ Thầm Nhưng Không Kín - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Hồi Kí Vanitas - Tập 2 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Hồi Kí Vanitas - Tập 3 - Tặng Kèm 1 Thẻ Bài (Số Lượng Có Hạn) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Inuyasha - Tập 14 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Inuyasha - Tập 16 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Inuyasha - Tập 2 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Jin - Tập 1 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Miko - Nhóc Tì Lớp Một - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Naruto - Tập 3 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Naruto - Tập 4 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Nhà Trọ Nhất Khắc 02 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Nhà Trọ Nhất Khắc 03 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Nhà Trọ Nhất Khắc 06 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Nhà Trọ Nhất Khắc 07 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Nhóc Miko! Cô Bé Nhí Nhảnh - Tập 26 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Nhóc Miko! Cô Bé Nhí Nhảnh - Tập 27 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Nhóc Miko! Cô Bé Nhí Nhảnh - Tập 28 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Nhóc Miko! Cô Bé Nhí Nhảnh - Tập 29 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Nhóc Miko_ Cô Bé Nhí Nhảnh - Tập 11 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Nhóc Miko_ Cô Bé Nhí Nhảnh - Tập 21 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Nhóc Miko_ Cô Bé Nhí Nhảnh - Tập 4 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Nhóc Miko_ Cô Bé Nhí Nhảnh - Tập 8 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Nhóc Miko_ Cô Bé Nhí Nhảnh - Tập 9 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh One Piece - Tập 88 (Bản Bìa Rời) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh One Piece - Tập 89 (Bản Bìa Rời) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Siêu Quậy Teppei - Tập 2 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thiên Thần Diệt Thế - Tập 12 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Conan - Tập 46 (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Conan Tập 45 (Tái Bản) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Kindaichi (Tập 1) - Án Mạng Ở Nhà Hát Opera - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Kindaichi (Tập 10) - Lệnh Truy Nã Kindaichi - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Kindaichi (Tập 12) - Án Mạng Ở Lâu Đài Người Sáp - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Kindaichi (Tập 13) - Vụ Án Siêu Trộm Hào Hoa - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Kindaichi (Tập 14) - Án Mạng Trên Đảo Nghĩa Địa - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Kindaichi (Tập 17) - Vụ Án Đồng Frang Pháp Oan Nghiệt - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Kindaichi (Tập 18) - Vụ Án Chuyến Khai Quật Kinh Hoàng - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Kindaichi (Tập 19) - Vụ Bắt Cóc Rika - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Kindaichi (Tập 2) - Án Mạng Ở Làng Lục Giác - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Kindaichi (Tập 20) - Án Mạng Trong Rừng Ma Khuyển - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Kindaichi (Tập 25) - Vụ Án_ Gánh Xiếc Kỳ Lạ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Kindaichi (Tập 4) - Vụ Án Bảy Bí Ẩn Ở Trường - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Kindaichi (Tập 5) - Án Mạng Trên Đảo Hiho - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Kindaichi (Tập 7) - Án Mạng Tại Dị Nhân Quán - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Kindaichi - Tập 16 - Vụ Án Cánh Bướm Tử Thần - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Kindaichi - Tập 26 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Kindaichi - Tập 27 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Kindaichi - Tập 29 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Kindaichi - Tập 30 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Kindaichi - Tập 32 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Kindaichi - Tập 34 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Kindaichi - Tập 8 - Vụ Án Khúc Hát Ru Từ Địa Ngục - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Lừng Danh Conan - Tập 11 (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Lừng Danh Conan - Tập 18 (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Lừng Danh Conan - Tập 40 (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Lừng Danh Conan - Tập 94 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Lừng Danh Conan Tập 42 (Tái Bản 2014) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám Tử Lừng Danh Conan Tập 48 (Tái Bản 2014) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám tử Kindaichi (Tập 15) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thám tử lừng danh Conan Tập 44 (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thần Đồng Đất Việt 2 - Trí Nhớ Siêu Phàm - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thần Đồng Đất Việt 3 - Voi Đất Biết Đi - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thần Đồng Đất Việt 63 - Ngự Sử Nhóc Con - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thế Giới Hoàn Mỹ - Perfect World (Tập 1) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Thế Giới Hoàn Mỹ - Perfect World (Tập 2) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Tiệm Trừ Yêu Kì Ảo - Tập 2 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Tiệm Trừ Yêu Kì Ảo - Tập 3 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Tiệm Trừ Yêu Kì Ảo - Tập 4 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Tiệm Trừ Yêu Kì Ảo - Tập 6 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Văn Hào Lưu Lạc - Tập 1 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Văn Hào Lưu Lạc - Tập 2 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Văn Hào Lưu Lạc - Tập 5 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Văn Hào Lưu Lạc - Tập 8 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Văn Hào Lưu Lạc - Tập 9 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Wild Life - Cuộc Sống Hoang Dã - Tập 1 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Yona - Công Chúa Bình Minh - Tập 21 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh Young Black Jack - Tập 1 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/Truyện Tranh [Bản Thường] Death Note - Tập 3 - Tặng Kèm 1 Postcard Đen Trắng Giấy Ivory In 2 Mặt (Số Lượng Có Hạn) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/[Bản Đặc Biệt] Truyện Tranh Death Note - Tập 5 - Tặng Bọc Sách Plastic + 1 Postcard Nhựa In Màu (Số Lượng Có Hạn) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/[Bản Đặc Biệt] Truyện Tranh Death Note - Tập 7 - Tặng Bọc Sách Plastic + 1 Postcard Nhựa In Màu (Số Lượng Có Hạn) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/[Bản Đặc Biệt] Truyện Tranh Nozaki &amp; Truyện Tranh Thiếu Nữ - Tập 2 - Kèm Bọc Sách PVC + Bookmark Chibi (Số Lượng Có Hạn) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/[Bản Đặc Biệt] Truyện Tranh Nozaki &amp; Truyện Tranh Thiếu Nữ - Tập 3 - Tặng Kèm Quà (Số Lượng Có Hạn) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Sách thiếu nhi/[Bản Đặc Biệt] Truyện Tranh Trang Nhất Toàn Là Hắn - Tập 5 - Tặng Kèm 3 Postcard + 1 Móc Khóa (Số Lượng Có Hạn) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Ai Sẽ Khóc Khi Bạn Lìa Xa - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Ba Người Thầy Vĩ Đại - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Bạn Đang Nghịch Gì Với Đời Mình_ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Bạn Đắt Giá Bao Nhiêu_ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Bạn Đỡ Ngu Ngơ Rồi Đấy - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Bốn Mùa Cuộc Sống - Châm Ngôn Ngày Mới (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Chiến Thắng Con Quỷ Trong Bạn (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Cho Đi Là Còn Mãi - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Chuyện Của Nghề - Ai Cũng Có Việc Của Mình - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Chữa Lành Sau Nỗi Đau - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Cách Sống - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Cất Tiếng Làm Điếng Thế Gian (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Cẩm Nang Con Gái (Tái Bản 2016) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Cẩm Nang Tuổi Dậy Thì Dành Cho Bạn Gái - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Cởi Trói Linh Hồn - Cuốn Sách Giúp Người Đọc Vượt Qua Giới Hạn Của Chính Mình - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Dám Bị Ghét - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Em Phải Đến Harvard Học Kinh Tế - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Gieo Mầm Tính Cách - Mạnh Mẽ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Giận (Tái Bản 2019) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Hài Hước Một Chút Thế Giới Sẽ Khác Đi - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Hôn Nhân Chân Kinh - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Hạnh Phúc Cầm Tay (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Khác Biệt Hay Là Chết (Tái Bản 2016) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Khéo Ăn Khéo Nói Sẽ Có Được Thiên Hạ (Bìa Cứng) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Khéo Ăn Nói Sẽ Có Được Thiên Hạ - Bản Mới - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Kỹ Năng Tư Duy Logic - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Làm Ra Làm Chơi Ra Chơi - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Lòng Tốt Của Bạn Cần Thêm Đôi Phần Sắc Sảo - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Lối Sống Tối Giản Của Người Nhật (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Lời Hứa Về Một Cây Bút Chì (Tái Bản 2017) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Muốn An được An (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Mảnh Nhỏ Diệu Kỳ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Mỗi Ngày Trọn Một Niềm Vui - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Nghiệp Tình Yêu - Karma Of Love - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Nghĩ Khác Để Sống Khác - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Nghĩ Đơn Giản - Sống Đơn Thuần - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Nghệ Thuật Bài Trí Của Người Nhật - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Nghệ Thuật Quyến Rũ (Tái Bản 2016) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Nghệ Thuật Tinh Tế Của Việc _Đếch_ Quan Tâm - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Ngày Xưa Có Một Con Bò (Tái Bản Lần Thứ 17 - 2016) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Ngôn Ngữ Cơ Thể - Body Language (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Người Giỏi Không Phải Là Người Làm Tất Cả (Tái Bản 2015) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Người Nam Châm - Bí Mật Của Luật Hấp Dẫn (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Những Khoảng Lặng Cuộc Sống (Tái Bản 2016) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Những Đòn Tâm Lý Trong Thuyết Phục (Tái Bản 2017) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Nội Tình Của Ngoại Tình - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Phi Lý Trí (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Quan Trọng Là Thần Thái - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Quẳng Gánh Lo Và Vui Sống - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Quẳng Gánh Lo Đi Và Vui Sống (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Rồi Một Ngày Cuộc Sống Hóa Hư Vô - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Sex Và Những Thứ Khác (Tái Bản 2017) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Sinh Ra Để Chạy - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Sống Đơn Giản Cho Mình Thanh Thản - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Sức Mạnh Của Ngôn Từ (Tái Bản 2016) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Sức Mạnh Của Trí Tuệ Tâm Linh - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Sức Mạnh Của Tĩnh Lặng (TB) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Sức Mạnh Của Tập Trung (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Sức Mạnh Tiềm Thức - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Tha Thứ Cho Nhau - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Thay Đổi Câu Hỏi - Thay Đổi Cuộc Đời - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Thuật Xử Thế Của Người Xưa - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Thả Trôi Phiền Muộn (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Thức Tỉnh Mục Đích Sống (Tái Bản) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Trí Tuệ Do Thái (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Trưởng Thành Sau Ngàn Lần Tranh Đấu (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Tuyết Giữa Mùa Hè - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Tuổi Trẻ Trong Ví, Bạn Mua Được Gì_ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Tuổi Trẻ Đáng Giá Bao Nhiêu_ (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Tâm Lý Học Hài Hước - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Tâm Lý Học Thành Công (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Tâm Lý Học Và Đời Sống - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Tôi Thích Bản Thân Nỗ Lực Hơn - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Tôi Tài Giỏi, Bạn Cũng Thế! (Tái Bản 2019) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Tôi Tự Học - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Tôi, Tương Lai Và Thế Giới - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Tư Duy Như Một Kẻ Lập Dị - Think Like A Freak - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Tốc Độ Của Niềm Tin (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Vì Sao Bạn Ế_ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Yêu Những Điều Không Hoàn Hảo - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Đi Tìm Lẽ Sống (Tái Bản) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Đàn Ông Sao Hỏa - Đàn Bà Sao Kim (Tìm Lại Tình Yêu) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Đánh Thức Con Người Phi Thường Trong Bạn (Tái Bản 2016) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Đường Mây Qua Xứ Tuyết - Tái Bản 2018 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Đắc Nhân Tâm (Khổ Lớn) (Tái Bản 2016) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Đặc Quyền Của Gái Hư - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Đọc Vị Bất Kỳ Ai - Để Không Bị Lừa Dối Và Lợi Dụng (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Đời Bạn, Bạn Không Sống, Ai Sống Hộ_ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Tâm lý - Kỹ năng sống/Sách Đời Ngắn Đừng Ngủ Dài (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Sách Chuyện Li Kì Ở Xóm Thần Tiên (Bản Thường) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Sách Con Đường Hồi Giáo (Tái Bản 2017) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Sách Harry Potter Và Phòng Chứa Bí Mật - Tập 2 (Tái Bản 2017) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Sách Hiểu Về Trái Tim (Tái Bản 2016) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Sách Thế Giới Rộng Lớn Đừng Đi Một Mình - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Sách Điều Kỳ Diệu Của Tiệm Tạp Hóa Namiya (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện 5 Centimet Trên Giây - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện 999 Lá Thư Gửi Cho Chính Mình - Mong Bạn Trở Thành Phiên Bản Hoàn Hảo Nhất - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện 999 Lá Thư Gửi Cho Chính Mình - Mong Bạn Trở Thành Phiên Bản Hạnh Phúc Nhất (Tập 2) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Anh Có Thích Nước Mỹ Không_ (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Anh Không Muốn Để Em Một Mình - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Bà Nội Găngxtơ (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Bàn Có 5 Chỗ Ngồi (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Bí Mật - Giao Ước Bóng Tối - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Bước Chạy Thanh Xuân - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Bước Chậm Lại Giữa Thế Gian Vội Vã (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Bảy Ngày Đếm Ngược - Tặng Kèm Bộ Thẻ Ước Nguyện 7 Ngày (Số Lượng Có Hạn) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Bố Già (Đông A) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Bố Già - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Cho Tôi Xin Một Vé Đi Tuổi Thơ (Bìa Mềm) (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Chuyện Con Mèo Và Con Chuột Bạn Thân Của Nó (Tái Bản 2019) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Chuyện Con Ốc Sên Muốn Biết Tại Sao Nó Chậm Chạp (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Chắc Gì Ta Đã Yêu Nhau - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Con Chó Nhỏ Mang Giỏ Hoa Hồng (Bìa Mềm) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Cuộc Sống Rất Giống Cuộc Đời (Tái Bản 2017) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Cà Phê Cùng Tony (Tái Bản 2017) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Cánh Đồng Bất Tận (Tái Bản 2019) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Có Hai Con Mèo Ngồi Bên Cửa Sổ (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Cảm Ơn Người Lớn (Bìa Mềm) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Cố Định Một Đám Mây - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Cốt Cách Phụ Nữ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Cửa Tiệm Của Những Lá Thư (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Giết Con Chim Nhại (Tái Bản 2019) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Góc Khuất Đàn Bà - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Gọi Em Bằng Tên Anh - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Hai Số Phận (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Hay Chúng Mình Đừng Hứa Hẹn Gì Nhau! - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Hãy Yêu Một Người Xứng Đáng Là Đàn Ông - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Hóa Ra Anh Vẫn Ở Đây (Bộ 2 Tập) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Hỏa Ngục (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Kẻ Cướp Cuối Cùng - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Khi Nhìn Thấy Lời Nói Dối Tôi Đã Yêu Em Thật Lòng - Tặng kèm 1 Bookmark (Số Lượng Có Hạn) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Khu Vườn Ngôn Từ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Không Gia Đình - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Không Xinh - Không Thông Minh - Không Bất Bình Thế Giới - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Kẻ Trộm Giấc Mơ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Luật Im Lặng (Mario Puzo) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Mong Mọi Sự Gặp Gỡ Đều Đúng Thời Điểm - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Mắt Biếc (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Mặt Trời Không Lặn Về Tây - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Một Lít Nước Mắt (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Một Tòa Thành Đang Chờ Anh (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Nguồn Cội - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Ngày Xưa Có Một Chuyện Tình (Tái Bản) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Người Thắp Sao Trời - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Người Đua Diều (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Người Đàn Ông Mang Tên Ove - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Nhà Giả Kim (Tái Bản 2017) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Nếu Chỉ Còn Một Ngày Để Sống - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Nữ Sinh - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Phía Sau Nghi Can X (Tái Bản 2019) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Phấn Hoa Lầu Xanh - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Phụ Nữ Vạn Người Mê - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Sống Như Người Paris (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Sự Cứu Rỗi Của Thánh Nữ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Sự Im Lặng Của Bầy Cừu (Tái Bản 2019) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Thiên Thần Và Ác Quỷ (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Thương Được Cứ Thương Đi (Tái Bản Lần Thứ 2 -2017) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Thất Tịch Không Mưa - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Thần Chết Làm Thêm 300 Yên_Giờ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Tiếc Rằng Mình Chẳng Đợi Được Nhau - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Tiếng Chim Hót Trong Bụi Mận Gai (Tái Bản 2014) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Totto-Chan Bên Cửa Sổ (Tái Bản 2019) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Trăm Năm Cô Đơn - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Tuổi 40 Mươi Yêu Dấu (Tản Văn) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Tình Kiếp Tam Sinh (Tái Bản Có Chỉnh Sửa Bổ Sung) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Tình Đầu Lúc Lâm Chung Với Thiếu Nữ Thần Chết - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Tôi Nói Gì Khi Nói Về Chạy Bộ (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Tôi Thấy Hoa Vàng Trên Cỏ Xanh (Bản In Mới - 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Tớ Muốn Ăn Tụy Của Cậu - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Tớ Thích Cậu Hơn Cả Harvard - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Vì Con Gái Tôi Có Thể Đánh Bại Cả Ma Vương (Bản Thường) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Xin Lỗi Em Chỉ Là Con Đĩ (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Your Name - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Yêu Lầm Anh_ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Ông Già Và Biển Cả (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Ông Trăm Tuổi Trèo Qua Cửa Số Và Biến Mất (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Điều Kỳ Diệu - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Điểm Dối Lừa - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Đong Tấm Lòng - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Đường Đua Của Những Giấc Mơ - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Được Anh Yêu Mới Gọi Là Yêu - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Đạo Tình - Tập 1 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Đạo Tình - Tập 2 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Đảo Mộng Mơ - Tái Bản 2018 - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/Văn học/Truyện Động Phòng Hoa Chúc Cách Vách (Tái Bản 2018) - FAHASA.COM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/fahasa_html_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fahasa_html/input/links.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BookCrawler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BookCrawler.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookCrawler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/full_books.csv" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/full_books.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/free_ebook_nets/book_crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/free_ebook_nets/book_crawler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/free_ebook_nets/free_ebook_crawler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/.~lock.books.csv#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/books.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/books.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/books_non_fiction.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/categories_pages.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/categories_pages.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/activate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/activate.csh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/activate.fish" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/chardetect" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/easy_install" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/easy_install-3.6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/pip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/pip3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/pip3.6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/python" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/python3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/python3.6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi-2019.3.9.dist-info/DESCRIPTION.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi-2019.3.9.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi-2019.3.9.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi-2019.3.9.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi-2019.3.9.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi-2019.3.9.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi-2019.3.9.dist-info/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi-2019.3.9.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi/cacert.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/DESCRIPTION.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/big5freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/big5prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/chardistribution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/charsetgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/charsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/cli/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/cli/chardetect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/codingstatemachine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/cp949prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/enums.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/escprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/escsm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/eucjpprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/euckrfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/euckrprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/euctwfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/euctwprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/gb2312freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/gb2312prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/hebrewprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/jisfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/jpcntx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/langbulgarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/langcyrillicmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/langgreekmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/langhebrewmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/langhungarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/langthaimodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/langturkishmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/latin1prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/mbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/mbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/mbcssm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/sbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/sbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/sjisprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/universaldetector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/utf8prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/easy-install.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna-2.8.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna-2.8.dist-info/LICENSE.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna-2.8.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna-2.8.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna-2.8.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna-2.8.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna/codec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna/idnadata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna/intranges.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna/package_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna/uts46data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml-4.3.3.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml-4.3.3.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml-4.3.3.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml-4.3.3.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml-4.3.3.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/ElementInclude.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/_elementpath.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/_elementpath.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/builder.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/builder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/cssselect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/doctestcompare.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/etree.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/etree.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/etree_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/html/ElementSoup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/html/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/html/_diffcommand.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/html/_html5builder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/html/_setmixin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/html/builder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/html/clean.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/html/clean.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/html/defs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/html/diff.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/html/diff.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/html/formfill.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/html/html5parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/html/soupparser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/html/usedoctest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/__init__.pxd" beforeDir="false" afterPath="$PROJECT_DIR$/fahasa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fahasa_etcd.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/c14n.pxd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/config.pxd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/dtdvalid.pxd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/etree_defs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/etreepublic.pxd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/htmlparser.pxd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libexslt/exslt.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libexslt/exsltconfig.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libexslt/exsltexports.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/DOCBparser.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/HTMLparser.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/HTMLtree.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/SAX.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/SAX2.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/c14n.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/catalog.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/chvalid.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/debugXML.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/dict.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/encoding.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/entities.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/globals.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/hash.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/list.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/nanoftp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/nanohttp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/parser.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/parserInternals.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/relaxng.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/schemasInternals.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/schematron.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/threads.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/tree.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/uri.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/valid.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/xinclude.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/xlink.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/xmlIO.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/xmlautomata.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/xmlerror.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/xmlexports.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/xmlmemory.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/xmlmodule.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/xmlreader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/xmlregexp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/xmlsave.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/xmlschemas.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/xmlschemastypes.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/xmlstring.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/xmlunicode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/xmlversion.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/xmlwriter.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/xpath.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/xpathInternals.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxml/xpointer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxslt/attributes.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxslt/documents.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxslt/extensions.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxslt/extra.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxslt/functions.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxslt/imports.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxslt/keys.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxslt/namespaces.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxslt/numbersInternals.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxslt/pattern.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxslt/preproc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxslt/security.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxslt/templates.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxslt/transform.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxslt/variables.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxslt/xslt.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxslt/xsltInternals.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxslt/xsltconfig.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxslt/xsltexports.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxslt/xsltlocale.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/libxslt/xsltutils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/lxml-version.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/relaxng.pxd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/schematron.pxd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/tree.pxd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/uri.pxd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/xinclude.pxd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/xmlerror.pxd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/xmlparser.pxd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/xmlschema.pxd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/xpath.pxd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/xslt.pxd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/isoschematron/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/isoschematron/resources/rng/iso-schematron.rng" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/isoschematron/resources/xsl/RNG2Schtrn.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/isoschematron/resources/xsl/XSD2Schtrn.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_abstract_expand.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_dsdl_include.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_schematron_message.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_schematron_skeleton_for_xslt1.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_svrl_for_xslt1.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/lxml.etree.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/lxml.etree_api.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/objectify.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/pyclasslookup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/sax.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/sax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/usedoctest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/PKG-INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/SOURCES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/not-zip-safe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/requires.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/basecommand.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/baseparser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/build_env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/cmdoptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/completion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/configuration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/download.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/freeze.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/hash.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/help.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/install.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/show.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/uninstall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/configuration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/download.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/locations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/models/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/operations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/operations/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/operations/freeze.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/operations/prepare.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/pep425tags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/req/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/req/req_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/req/req_install.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/req/req_set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/req/req_uninstall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/resolve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/status_codes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/appdirs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/deprecation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/encoding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/filesystem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/glibc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/hashes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/logging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/outdated.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/packaging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/setuptools_build.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/temp_dir.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/typing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/ui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/vcs/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/vcs/bazaar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/vcs/git.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/vcs/mercurial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/vcs/subversion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/appdirs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/_cmd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/adapter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches/file_cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches/redis_cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/controller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/filewrapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/heuristics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/serialize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/wrapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/certifi/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/certifi/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/certifi/cacert.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/certifi/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/big5freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/big5prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/chardistribution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/charsetgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/charsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/cli/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/cli/chardetect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/codingstatemachine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/cp949prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/enums.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/escprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/escsm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/eucjpprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/euckrfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/euckrprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/euctwfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/euctwprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/gb2312freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/gb2312prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/hebrewprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/jisfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/jpcntx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langbulgarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langcyrillicmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langgreekmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langhebrewmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langhungarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langthaimodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langturkishmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/latin1prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/mbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/mbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/mbcssm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/sbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/sbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/sjisprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/universaldetector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/utf8prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/colorama/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/colorama/ansi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/colorama/ansitowin32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/colorama/initialise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/colorama/win32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/colorama/winterm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/_backport/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/_backport/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/_backport/shutil.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/_backport/tarfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/locators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/manifest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/markers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/metadata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/resources.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/scripts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/t32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/t64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/w32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/w64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_ihatexml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_inputstream.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_tokenizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/_base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/datrie.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/py.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/alphabeticalattributes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/inject_meta_charset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/lint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/optionaltags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/sanitizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/whitespace.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/html5parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/serializer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treeadapters/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treeadapters/genshi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treeadapters/sax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/dom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/etree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/etree_lxml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/dom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/etree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/etree_lxml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/genshi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/codec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/idnadata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/intranges.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/package_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/uts46data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/ipaddress.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/lockfile/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/lockfile/linklockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/lockfile/mkdirlockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/lockfile/pidlockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/lockfile/sqlitelockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/lockfile/symlinklockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/msgpack/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/msgpack/_version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/msgpack/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/msgpack/fallback.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/__about__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/_structures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/markers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/requirements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/specifiers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pkg_resources/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pkg_resources/py31compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/progress/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/progress/bar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/progress/counter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/progress/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/progress/spinner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pyparsing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pytoml/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pytoml/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pytoml/parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pytoml/writer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/__version__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/_internal_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/adapters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/certs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/cookies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/help.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/hooks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/packages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/sessions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/status_codes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/structures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/retrying.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/_collections.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/connectionpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/_securetransport/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/appengine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/ntlmpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/pyopenssl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/securetransport.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/socks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/fields.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/filepost.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/backports/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/backports/makefile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/ordered_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/poolmanager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/retry.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/selectors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/ssl_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/timeout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/url.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/wait.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/webencodings/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/webencodings/labels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/webencodings/mklabels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/webencodings/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/webencodings/x_user_defined.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests-2.21.0.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests-2.21.0.dist-info/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests-2.21.0.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests-2.21.0.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests-2.21.0.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests-2.21.0.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/__version__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/_internal_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/adapters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/certs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/cookies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/help.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/hooks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/packages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/sessions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/status_codes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/structures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-39.1.0-py3.6.egg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3-1.24.1.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3-1.24.1.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3-1.24.1.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3-1.24.1.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3-1.24.1.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3-1.24.1.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/_collections.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/connectionpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/contrib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/contrib/_appengine_environ.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/contrib/_securetransport/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/contrib/_securetransport/bindings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/contrib/_securetransport/low_level.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/contrib/appengine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/contrib/ntlmpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/contrib/pyopenssl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/contrib/securetransport.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/contrib/socks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/fields.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/filepost.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/packages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/packages/backports/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/packages/backports/makefile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/packages/six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/packages/ssl_match_hostname/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/packages/ssl_match_hostname/_implementation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/poolmanager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/util/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/util/connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/util/queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/util/request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/util/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/util/retry.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/util/ssl_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/util/timeout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/util/url.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/util/wait.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,22 +1129,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/free_ebook_nets/book_crawler.py">
+        <entry file="file://$PROJECT_DIR$/fahasa_crawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="137" column="131" selection-start-line="137" selection-start-column="131" selection-end-line="137" selection-end-column="131" />
+            <state relative-caret-position="-875">
+              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
               <folding>
-                <element signature="e#0#21#0" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/output/categories_pages.csv">
+        <entry file="file://$PROJECT_DIR$/fahasa_etcd.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+            <state relative-caret-position="331">
+              <caret line="13348" column="22" lean-forward="true" selection-end-line="13353" />
             </state>
           </provider>
         </entry>
@@ -44,6 +1152,17 @@
     </leaf>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>,</find>
+      <find>Block</find>
+      <find>Sách Bạn Đắt Giá Bao Nhiêu_</find>
+      <find>Sách Đường Đến Nhà</find>
+      <find>Truyện Thương Nhớ</find>
+      <find>Sách Lớp Học Mật Ngữ</find>
+      <find>Truyện Mộ Đom Đóm</find>
+      <find>Tâm lý</find>
+      <find>Harry</find>
+    </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/statics/Fiction</dir>
     </dirStrings>
@@ -56,8 +1175,19 @@
       <list>
         <option value="$PROJECT_DIR$/free_ebook_nets/free_ebook_crawler.py" />
         <option value="$PROJECT_DIR$/bookCrawler.py" />
-        <option value="$PROJECT_DIR$/free_ebook_nets/book_crawler.py" />
         <option value="$PROJECT_DIR$/output/categories_pages.csv" />
+        <option value="$PROJECT_DIR$/input/category.csv" />
+        <option value="$PROJECT_DIR$/free_ebook_nets/book_crawler.py" />
+        <option value="$PROJECT_DIR$/fahasa.py" />
+        <option value="$PROJECT_DIR$/settings.py" />
+        <option value="$PROJECT_DIR$/input/links.csv" />
+        <option value="$PROJECT_DIR$/fahasa_html_data.csv" />
+        <option value="$PROJECT_DIR$/test_choi.py" />
+        <option value="$PROJECT_DIR$/fahasa_html/fahasa_html_data.csv" />
+        <option value="$PROJECT_DIR$/etcd.py" />
+        <option value="$PROJECT_DIR$/fahasa_html/output_fahasa.csv" />
+        <option value="$PROJECT_DIR$/fahasa_crawler.py" />
+        <option value="$PROJECT_DIR$/fahasa_etcd.txt" />
       </list>
     </option>
   </component>
@@ -67,13 +1197,14 @@
     <option name="width" value="1279" />
     <option name="height" value="701" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -84,29 +1215,32 @@
             <path>
               <item name="BookCrawler" type="b2602c69:ProjectViewProjectNode" />
               <item name="BookCrawler" type="462c0819:PsiDirectoryNode" />
-              <item name="free_ebook_nets" type="462c0819:PsiDirectoryNode" />
+              <item name="fahasa_html" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BookCrawler" type="b2602c69:ProjectViewProjectNode" />
               <item name="BookCrawler" type="462c0819:PsiDirectoryNode" />
-              <item name="output" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BookCrawler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="free_ebook_nets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fahasa_html" />
       <recent name="$PROJECT_DIR$/statics/Fiction" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -121,8 +1255,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.book_crawler">
-    <configuration name="bookCrawler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.fahasa_crawler">
+    <configuration name="etcd" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BookCrawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,7 +1268,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bookCrawler.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/etcd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +1277,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="book_crawler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fahasa_crawler" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BookCrawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,32 +1285,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/free_ebook_nets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/free_ebook_nets/book_crawler.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="free_ebook_crawler" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="BookCrawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/free_ebook_nets" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/free_ebook_nets/free_ebook_crawler.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fahasa_crawler.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,9 +1300,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.book_crawler" />
-        <item itemvalue="Python.free_ebook_crawler" />
-        <item itemvalue="Python.bookCrawler" />
+        <item itemvalue="Python.fahasa_crawler" />
+        <item itemvalue="Python.etcd" />
       </list>
     </recent_temporary>
   </component>
@@ -207,23 +1319,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
+    <frame x="51" y="25" width="1315" height="743" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18495297" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2623839" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40228012" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947533" weight="0.4820847" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39739415" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32954547" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.20941558" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50052464" side_tool="true" weight="0.6661238" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -237,32 +1348,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/.~lock.books.csv#">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/books_non_fiction.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-399" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bookCrawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/full_b.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/full_book.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-138" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/output/.~lock.books.csv#" />
+    <entry file="file://$PROJECT_DIR$/output/books_non_fiction.csv" />
+    <entry file="file://$PROJECT_DIR$/bookCrawler.py" />
+    <entry file="file://$PROJECT_DIR$/output/full_b.csv" />
+    <entry file="file://$PROJECT_DIR$/output/full_book.csv" />
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/adapters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
@@ -270,50 +1360,137 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/category.csv">
+    <entry file="file://$PROJECT_DIR$/output/category.csv" />
+    <entry file="file://$PROJECT_DIR$/output/books.csv" />
+    <entry file="file://$PROJECT_DIR$/free_ebook_nets/free_ebook_crawler.py" />
+    <entry file="file://$PROJECT_DIR$/output/full_books.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/books.csv">
+    <entry file="file://$PROJECT_DIR$/output/categories_pages.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1744">
-          <caret line="3865" lean-forward="true" selection-start-line="3865" selection-end-line="3865" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/free_ebook_nets/free_ebook_crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="141" column="33" lean-forward="true" selection-start-line="128" selection-start-column="17" selection-end-line="141" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="521">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/output/categories.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="44" column="23" selection-start-line="2" selection-end-line="44" selection-end-column="23" />
+        <state relative-caret-position="22">
+          <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/full_books.csv">
+    <entry file="file:///usr/lib/python3.6/posixpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="370" selection-start-line="370" selection-end-line="370" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Sách Khí Chất Bao Nhiêu, Hạnh Phúc Bấy Nhiêu - FAHASA.COM.html" />
+    <entry file="file://$PROJECT_DIR$/testthune.html" />
+    <entry file="file://$PROJECT_DIR$/testhune.html" />
+    <entry file="file://$PROJECT_DIR$/fahasa_html/Kinh tế/Sách Dấn Thân - FAHASA.COM.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fahasa_html/Văn học/Sách Chuyện Li Kì Ở Xóm Thần Tiên (Bản Thường) - FAHASA.COM.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fahasa_html/Văn học/Truyện Bảy Ngày Đếm Ngược - Tặng Kèm Bộ Thẻ Ước Nguyện 7 Ngày (Số Lượng Có Hạn) - FAHASA.COM.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fahasa_html/Văn học/Truyện Thương Nhớ Trà Long (Tái Bản 2019) - FAHASA.COM.html" />
+    <entry file="file://$PROJECT_DIR$/fahasa_html/Văn học/Truyện Mộ Đom Đóm - FAHASA.COM.html" />
+    <entry file="file://$PROJECT_DIR$/fahasa_html/Văn học/Truyện Thất Tịch Không Mưa - FAHASA.COM.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fahasa_html/fahasa_html_data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1276">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/full_books.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py" />
+    <entry file="file://$PROJECT_DIR$/fahasa_html/input/links.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/category.csv" />
+    <entry file="file://$PROJECT_DIR$/fahasa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-960">
+          <caret line="30" column="69" selection-start-line="26" selection-start-column="8" selection-end-line="30" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_config.yaml" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/etcd3/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etcd.py" />
     <entry file="file://$PROJECT_DIR$/free_ebook_nets/book_crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="137" column="131" selection-start-line="137" selection-start-column="131" selection-end-line="137" selection-end-column="131" />
+        <state relative-caret-position="1188">
+          <caret line="54" column="45" selection-start-line="51" selection-start-column="8" selection-end-line="54" selection-end-column="45" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/categories_pages.csv">
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+        <state relative-caret-position="543">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fahasa_html/output_fahasa.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="63" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fahasa_crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-875">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fahasa_etcd.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="13348" column="22" lean-forward="true" selection-end-line="13353" />
         </state>
       </provider>
     </entry>
